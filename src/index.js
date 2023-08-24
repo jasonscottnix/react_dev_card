@@ -23,14 +23,14 @@ function Intro() {
     <div>
       <h1>Jason Nix</h1>
       <p>
-        Software development professional with experience as a Solution
-        Architect, Project Manager and Senior Engineering Manager. Delivers
-        complex solutions to market and provides knowledgeable support for
-        enterprise software customers. Effectively provides end-to-end
-        application life-cycle management with deep knowledge of database
-        systems. Detail-oriented professional who enjoys problem-solving in
-        collaborative environments, but can also work alone or in smaller groups
-        to achieve the desired results.
+        Software development professional with experience as a Senior
+        Engineering and Senior Engineering Manager. Delivers complex solutions
+        to market and provides knowledgeable support for enterprise software
+        customers. Effectively provides end-to-end application life-cycle
+        management with deep knowledge of database systems. Detail-oriented
+        professional who enjoys problem-solving in collaborative environments,
+        but can also work alone or in smaller groups to achieve the desired
+        results.
       </p>
     </div>
   );
